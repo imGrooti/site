@@ -1,0 +1,8 @@
+p{
+    display: flex;
+    justify-content: center;
+    
+    background-color: rgb(153, 254, 255);
+    height: 3rem;
+    
+}

@@ -6,8 +6,9 @@ function  About ()  {
   return (
     <div>
       <Nav />
+      About
       <Footer />
-      <h1>About</h1></div>
+    </div>
    
     
     );

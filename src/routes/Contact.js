@@ -6,8 +6,9 @@ function Contact  () {
   
     <div>
       <Nav />
+      Contact
       <Footer />
-      Contact</div>
+      </div>
  
   );
 };

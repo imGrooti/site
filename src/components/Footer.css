@@ -1,8 +1,13 @@
 p{
     display: flex;
     justify-content: center;
+    color: rgb(6, 4, 4);
     
-    background-color: rgb(153, 254, 255);
+    background-color: rgb(147, 177, 166);
     height: 3rem;
     align-items: center;
+}
+img{
+    display: inline-block;
+    height: 4rem;
 }

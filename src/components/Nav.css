@@ -7,13 +7,13 @@ a{
     text-decoration: none;
     padding: 5px;
     display: flex;
-    color: rgb(33, 20, 41);
+    color: rgb(255, 255, 255);
     font-family: 'sans-serif';
 
 
 }
 ul{
-    background-color:rgb(185, 131, 255);
+    background-color:rgb(4, 13, 18);
     list-style: none;
     gap: 1rem;
     display:  flex;

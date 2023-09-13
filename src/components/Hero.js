@@ -3,9 +3,7 @@ import "../components/Hero.css";
 
 const Hero = () => {
   return (
-    <div className='hero'>
-  
-  </div>
+    <div className='hero'>Hero</div>
   )
 }
 
